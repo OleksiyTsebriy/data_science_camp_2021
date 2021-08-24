@@ -1,0 +1,3 @@
+Перед запуском ноутбуку скачайте модель Universal Sentence Encoder і розархівуйте її в папку USE/
+Лінка: https://tfhub.dev/google/collections/universal-sentence-encoder
+По тому посиланні також можна знайти multilingual модель, необхідну для виконання домашнього завдання
